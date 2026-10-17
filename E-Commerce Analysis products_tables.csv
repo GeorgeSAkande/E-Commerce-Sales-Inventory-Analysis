@@ -1,0 +1,21 @@
+product_id,product_name,product_category,manufacturing_city,manufacturing_country,size,color,sku,brand,unit_cost,list_price,supplier_id,stock_quantity,reorder_level,weight_kg,launch_date,product_status
+248903,Wireless Noise-Canceling Headphones,Electronics,Shenzhen,China,One Size,Midnight Black,7117064996,Auralux,58.4,149.99,96537,417,76,0.31,8/15/2021,Active
+352870,Smart Fitness Watch,Electronics,Taipei,Taiwan,44 mm,Graphite,3285428596,PulsePeak,74.25,199.99,85060,538,105,0.05,3/10/2022,Active
+656839,Portable Bluetooth Speaker,Electronics,Ho Chi Minh City,Vietnam,Compact,Ocean Blue,4905729890,SoundTrail,29.8,79.99,58789,147,29,0.54,11/2/2021,Active
+761477,4K Streaming Webcam,Electronics,Suzhou,China,Standard,Black,4264849561,ClearCast,34.1,99.99,24254,588,33,0.18,2/20/2023,Active
+476775,Fast-Charging Power Bank,Electronics,Dongguan,China,"20,000 mAh",Silver,5267717589,VoltEdge,21.6,59.99,85060,174,66,0.42,8/1/2026,New
+166698,Digital Air Fryer,Home & Kitchen,Ningbo,China,6 Quart,Matte Black,7154397392,Hearthly,52.75,139.99,91275,598,45,6.8,9/1/2021,Active
+941386,Ceramic Cookware Set,Home & Kitchen,Izmir,Turkey,12 Piece,Sage Green,8146941236,CasaVerde,68.9,179.99,83595,575,30,8.4,6/14/2022,Active
+416355,Bamboo Sheet Set,Home & Kitchen,Ahmedabad,India,Queen,Ivory,3918381398,RestWeave,32.5,89.99,89927,404,52,1.95,1/25/2022,Active
+892986,Memory Foam Pillow,Home & Kitchen,Charlotte,United States,Standard,White,4871833771,CloudNest,18.35,49.99,91275,608,96,1.25,10/8/2021,Active
+787730,Performance Hoodie,Apparel,Dhaka,Bangladesh,Large,Charcoal,1316800908,Northline,22.4,64.99,89608,296,66,0.72,8/3/2022,Active
+491938,Everyday Running Shoes,Apparel,Hanoi,Vietnam,Men's 10,White/Navy,3121686437,StrideForm,31.75,94.99,85060,925,79,0.88,5/18/2023,Active
+811570,Recycled Canvas Tote,Apparel,Los Angeles,United States,Large,Sand,6954181362,CivicCarry,11.2,34.99,96537,158,40,0.36,8/2/2026,New
+446299,Adjustable Dumbbell Set,Fitness,Columbus,United States,50 lb,Black,9917185698,ForgeFit,96.5,249.99,58789,773,85,22.7,11/5/2022,Active
+843733,Resistance Band Kit,Fitness,Tijuana,Mexico,5 Band,Multi-Color,6559235394,FlexCore,9.8,29.99,83595,382,86,0.58,7/21/2021,Active
+986215,Hydrating Face Serum,Beauty,Seoul,South Korea,30 mL,Clear,1049803735,DewTheory,8.65,32.99,36537,890,90,0.12,9/12/2023,Active
+918536,Ionic Hair Dryer,Beauty,Osaka,Japan,Standard,Rose Gold,3061162936,SilkCurrent,41.3,119.99,36537,364,67,0.91,8/12/2026,Prelaunch
+391895,Insulated Hiking Bottle,Outdoors,Denver,United States,32 oz,Forest Green,4060404034,TrailSip,13.9,39.99,87185,524,51,0.49,4/30/2022,Active
+292793,Lightweight Camping Chair,Outdoors,Monterrey,Mexico,Standard,Deep Blue,5533641400,Campstead,27.6,74.99,89927,392,27,3.15,8/18/2026,Prelaunch
+174499,Ergonomic Wireless Mouse,Office,Penang,Malaysia,Standard,Slate Gray,9913938625,WorkArc,19.45,54.99,12378,122,84,0.22,1/16/2023,Active
+250538,Orthopedic Pet Bed,Pet Supplies,Bursa,Turkey,Medium,Heather Gray,6833995717,PawHaven,24.8,69.99,85060,313,72,2.4,9/1/2026,Prelaunch
